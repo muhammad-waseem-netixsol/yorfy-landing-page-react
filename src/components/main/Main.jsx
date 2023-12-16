@@ -31,7 +31,6 @@ const Main = () => {
     <div className='sm:flex-1 sm:flex sm:justify-end sm:items-end h-[530px] sm:h-[460px] sm:w-[50%] w-full'>
       <div className="w-full h-full flex justify-end items-end relative sm:w-[90%]">
       <div className='h-[370px] w-[88%] xl:h-[368px] bg-slate-300 absolute top-[0%] left-[50%] translate-x-[-50%] rounded-lg'>
-          <img className='block h-full w-full' src={faceImage} alt="faces" />
         </div>
       <div className="border-blue-600 border-2 shadow-lg shadow-black rounded-lg h-52 lg:h-[256px] w-full">
         <div className='flex flex-col justify-end items-center lg:justify-center lg:items-end gap-5 h-full p-5 lg:flex-row sm:flex-col sm:justify-end sm:items-center'>  

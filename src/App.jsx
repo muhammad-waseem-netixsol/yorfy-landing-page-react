@@ -27,6 +27,7 @@ function App() {
     <Feature />
     <Collection />
     <Community />
+    <Badge />
     <Partners />
     <NewsLetter />
     <Footer />
